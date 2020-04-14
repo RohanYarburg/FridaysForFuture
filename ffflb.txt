@@ -1,0 +1,99 @@
+<html style=" background-color: rgb(150,150,150)"><head>
+		<title>Fridays For Future - Lebanon</title>
+		<link rel="stylesheet" media="screen and (max-width: 700px)" href="stylingNarrow.css" type="text/css">
+		<link rel="stylesheet" media="screen and (min-width: 701px)" href="stylingMedium.css" type="text/css">
+	</head>
+
+<body style="font-family:verdana;">
+<header>
+<h1 style=" font-size:70px">Fridays For Future - Lebanon</h1>
+<img src="https://lh5.googleusercontent.com/IG7OESUnHQsKTK1ePy6WGVQtnsQWaEjpJeC9taI-r2RFXhjeg2XiIsvGmbj42Ykz61be0Uu9sxtXyhHnNiNMcebkzfVyd6KOVUKsJtQ" height="5px" width="90%">
+</header>
+<nav>
+	<ul>	
+		<a href="ffflb.html"><img src="https://lh3.googleusercontent.com/cMQuXchtT-3kUfil1iHYnLGLZ4GP63Z4ymsX61r7by3td4JebpdW2LCP51jNqmWu2SrdycwDF0WIm4lyY6t0bGQeirsE9KxDbn0vaS_-" width="200" height="200"></a>
+		<img src="https://lh5.googleusercontent.com/Kw1EejDAaBtGaKF9v4FYJw17Dir2fAw0a1nPuLesAlRRG6CJg2gifOqTW3BtOrgfqUojXRZUx-qtkSZdq-raV3PJjr4tz0SUYrWA65gT" height="200" width="200">
+		<img src="https://lh4.googleusercontent.com/50RScV23Yqi_ZbiSzXtYsqLrh6MghiZwCFgspIus7O2dxDFL-pIIY2rv9QgpISFUqOTOChyAaFakAps3OZlYDrA8azShpeBsIuM1BIZX" height="200" width="200">
+	<br>
+		<img src="https://lh6.googleusercontent.com/2mPGqua5I6qmYNjMSOibVt6xa9UYZWwsk9847yDlq_8WhqjodOypeEhZJEj-w3ksGwgnjcgYd8dcOWFkCVVrpGF8NW_-PpSflZqi2aZt" height="200" width="200">
+		<img src="https://lh6.googleusercontent.com/WicTpyaC4NZqmK4VkN82SXhJg4Hk9fEDNdKq80xbFbkgBpoB4lClX4VE2F7Mr-qNsgmhhKK-vWo4YbaRzNbOgHcOuqYcH6kv0hpJZ5x2" height="200" width="200">
+		<img src="https://lh3.googleusercontent.com/W-tzdiSFpvWD-N6u7EeP348Plrye8sXB94ZJN8xs0FkGjJ4V40kJwI2yk_sgH_Vh2gUSvwVsyjlad_a4l9EBlczSlFbI-tfz-BJYmDY" height="200" width="200">
+	</ul>
+</nav>
+<main>
+	<h2>Revolutionary Climate Week</h2>
+		<p>International Day of Peasant’s Struggle (17.04) until Earth Day (24.04.2020)</p>
+
+	<p style="font-weight:bold">Andrés Succar Rahme</p>
+		Jounieh, Keserwan<br>
+		Fridays For Future Lebanon #BeirutClimateStrike<br>
+		Founder and International Movement Contact in Lebanon
+	<p></p>
+	
+	<h2>Overview</h2>
+		<p>Since the COVID-19 health pandemic has changed the way we consume, learn, work and move -- the states of crises which have so far destroyed so much are still without focus. Even in terms of health, the WHO has gathered and showed us that 92% of us breathes toxic air. Wondered why our lungs are prone? On a similar scale, and for directly related reasons, as well, we have experienced a 1 centigrade average warming this past century. The most affected have been rural areas of the Global South, with farmers as frontline victims. As thousands of species go extinct everyday, the mother of all crises remains the climate: predicting losses to be larger than the amount of all currencies we have in use today by 2050. On top of the many viruses in our melting permafrost being released, in our coming century, pandemics will be paired with coastal cities going underwater! Socio-political and economic imbalances abused by State and corporate powers, abroad and in Lebanon, has pushed a revolution that  -- even if from 		home -- nobody could stop. </p>
+
+	<h2>Goals</h2>
+		<p>	We plan to set up an educative and entertaining campaign, starting on 17/04/20 and ending 24/04 for the 50th anniversary of Earth Day, that centers around our indigenous roots, in an attempt to bridge modernity with our cultural understanding of ecosystems and the healthy subsistence we truly only need from this to survive. Throughout the week, we will unfold a series of climate-related projects live-streamed online, and covered by traditional media, to keep people informed, engaged, and inspired. From songs and theater plays dedicated to Mother Nature, community farms and farmers’ markets popping as alternatives to unsanitary supermarkets, to animal and human rights activists that feel excluded and without opportunity to fight for climate justice to talk. 
+			Everyone reading this is invited to share ideas here: fridaysforfuturelebanon@gmail.com
+			Hang banners from balconies and climate Countdown over old advertisements
+			Occupy public spaces permanently with decorative purifiers and food plants
+			Connect consumers to local producers embracing values of the circular economy
+			Relate the global state of emergency caused by Coronavirus to CO2 emissions
+			Request access to information concerning public federal authorities, massively
+			Stream historical documentaries and impactful movies from FFF Lebanon 
+			Participate in solution-seeking interactive virtual theater plays 
+			Launch next year’s Climate Live concerts with music performed from home
+		</p>
+	
+	<h2>Specifications</h2>
+		<p>Please, keep the following information confidential -- as our working plan, it may change: </p>
+	<h4>Human Power 17/04</h4>
+		<p>In celebration of the elapsed six months of revolution, we would like to invite everyone to hang banners from their balconies and windows as a continuation of our protest against the State. We will also make a library of these, together with posters and infographics, accessible for anyone to print and glue on the walls of our streets. These will identify revolutionaries in cities and towns with each other -- specially those commanding environmental awareness of unsustainable economic activities around them. 
+		</p>
+		<img src="https://lh4.googleusercontent.com/cOrrlNAiLYHMiYRTCfTMkmO7WvuQ1TN2BZeNNShJIpJIXp-RlMPVGWtqzieFsn3qQBwSQh4cfxioCwMsMIymswHppCn6wFf5QMgFt6bn">
+	<h4>Agro-Ecology 18/04</h4>
+		<p>Organic farmers from the oldest peasant’s labor union in Bater, Shouf, together with landscape architects and biomimicry specialists from theOtherDada, Regenerate Lebanon and Soils Association for Permaculture will engage in dialogue with both rural and urban dwellers to bring nature closer in realizing how much we depend on it, specially in times when imports are scarcer, so we can prevent hunger. Perhaps with the support of the Shouf Biosphere Reserve, Bouzourouna Jouzourouna and ‘Haraket Habaq’ we can allocate native heirloom seeds to all the communities in want or need, to plant them, or more densely in the few green public spaces left in our cities and potentially also on rooftops or even vertical farming initiatives indoor. With theOtherDada we could identify degenerated/leftover plots of land which could be reclaimed into urban forests using the Miyawaki technique of afforestation [This would be an activity 		by itself, maybe on a different day, if we locate a suitable plot]. Finally, we will tack		le the issue of food waste, as recently presented to the Parliament, in great part thanks to Active Advocacy For Communities of Tomorrow NGO, for having to donate food waste that is for some reason not shiny or perfect enough for the shelves... in grassroots solidarity with local farmers, by visiting them with your children and pets to enjoy a day in the field, and buy directly from them instead of the middle-man.  Our actions on this day will support the emergence of sanitary open-air farmers’ markets. 
+		</p>
+	<h4>Circular Economy 19/04</h4>
+		<p>We will ask EcoSouk and Regenerate Lebanon founder and chief executive to guide us through what their designers have already captured, best-selling products, and wildly playful projects that are scalable (such as downcycling cigarette butts into surfboards). In addition, the webinar will tackle the evermore pressing matter of waste management, at the municipal and national levels. Our panel will thus attempt to include organizations who are active, such as the Circular Hub, Waste Management Coalition, Arcenciel, Toum, Green Track, Waste Sorting and Treatment Center in Blat, Ziad Abi Chaker and public employees from municipalities which are pioneers in recycling. We can open exhibitions in the fields (used previously by farmers) and an alternative waste-based utility market. The light reflecting from our empty streets will bring us finally to see what Train Train, BusMap, Riders Rights’, Carpolo, Bike Lebanon and the Chain Effect actually need to opportunely end our waste of golden time and energy in traf		fic. Finally, the fashion industry will be kindly asked to revisit how they operate to follow up on textile’s life-time [look into Creative Space Beirut/Second Street].
+		</p>
+	<h4>Global Emergencies 20/04</h4>
+		<p>In this session we will gather all scientific communities together so as to factually explain reality. That is, we will take a deep dive into Paleontology and dig up ancient Canaanite texts to describe pre-history, moving not so quickly through the destructions and reconstructions of our civilization, on as shaky foundations as threaten to fell our house before even catching fire! Of course, studying scientific case scenarios for 2050 and the end of this century out loud, in our revolting communities, can be of immense help in planning social inequities out of our common future, with the blessing of Academia. We invite schools, universities and  Fighters for Peace.
+		</p>
+	<h4>Freedom of Information 22/04</h4>
+		<p>Democratic governments are entitled with the responsibility to answer questions citizens might have. Indeed, it is a governed people’s right to demand access to information of decisions and actions made by public officials thus impacting our lives’ systems… as this nation’s youth climate activists, we specifically demand a safe pathway to withstand current and future crises. For instance, the Ministry of Environment approved offshore drilling explorations for gas and oil with an Environmental Impact Assessment report submitted on 20/02/2020. Here, we ask if it is at all reasonable to penetrate thousands of meters deep into our Earth’s crust looking for solutions to repair their most wicked economic comfort; let alone our environmental troubles, let us think how to solve for wildfires, droughts and floods -- not more commercially unstoppable spills of petroleum along our shores! Here’s the youth patriotically collaborating with lawyers to invite dissent from within, under the Lebanese Petroleum Administra		tion’s act to protect whistleblowers.
+		</p> 
+	<h4>Social Equity 21/04</h4>
+		<p>Lebanese films are reaching unprecedented heights as watchers desire for an immersion in time to make us feel, see and hear what they must show us on all sizes of our screens. This episode-day could unfold in one of two ways: either they will be shown temporarily online and broadcasted live on (Fridays For Future International’s channel?) YouTube, or we could work to develop our own website to show as eye-opening and narratively consistent topics with our experience of reality as are films and documentaries. Going for the latter would of course be a better option (despite having to do a small fundraiser), since we could then connect our honestly curious local and international audiences with the history and achievements of our peoples’ criticism. We’d also be able to display a broader selection on a website: if not, we will ask to show Raed and Rania Rifai’s “74: Reconstitution of a Struggle.” We can then reflect together over an open call. *Suggestions are welcome!*
+		</p>
+	<h4>Arts For Future 23/04</h4>
+		<p>We have reached out to the theaters and art residencies in Beirut’s and the international avangarde to collaborate with us on exploring solutions fit for humanity’s shared future. We are inviting Abaad, Zoukak, Zico House, Ashkal Alwan, MACAM, March Lebanon, Dar Onboz, Regenerate Lebanon, and many more… hence, we hope to be able to shift the miserable reliance on external powers, so heavily lobbied by the fossil fuel industries, while the whole economy we have built around Carbon is so much more deteriorating, to our own healths, specially, than our very own legitimate standing as the world’s oldest civilization. Don’t you feel responsibility? For having ancestors who sat under this very few trees, turning them ships. 
+		</p>
+	<h4>Climate Live Launching 24/04</h4>
+		<p>The week will naturally lead to many fruitful outcomes thereof. Nonetheless, we are especially excited to launch our Lebanon Climate Live campaign, that will engage artists and activists weekly, in the build-up to the largest event in musical history! With a Youth Assembly of activists coordinating the project in tandem from 100 cities with established teams of professionals at every step of the way: locally, nationally, regionally and globally. We will try to have at least one A class performance, with a home pre-recorded orchestra -- as hip-hop, Arabic rap, alternative deep-house and solo spectacles are in preparation.
+		</p>
+	
+</main>	
+	<footer>
+		<h3>Milestones</h3>
+		<ul>
+			<li>Fridays For Future Lebanon Board</li>
+				<p>After four progressively successful #BeirutClimateStrike, a board of youth formed to network with professionals who share our broad environmental values.
+				</p>
+			<li>Climate Live National Team</li>
+				<p>Team is set to work on a Spring 2021 Climate Live Regional Spotlight concert, rather than 19/09/2020 as was previously planned before the COVID 19 pandemic. 
+				</p>
+			<li>Farmers and Peasants Against Corona</li>
+				<p>Strawhat Garden’s typical round-table discussions now scheduled online, striving to share their experiences accumulated through unions in an effort to save traditions.
+				</p>
+			<li>Vast Active Network in Beirut, Shouf, Bcharre, Tripoli and Baalbak</li>
+				<p>Hence, the Lebanese youth, indeed, is being mobilized to propose our desperate public a truly sustainable national plan -- as we do still have power over technology!
+				</p>
+			<li>IT Team</li>
+				<p>A number of volunteers have offered to code an open-sourced website which emphasises Lebanon holistically, farms (public ones, new!), recycling facilities, grassroots educational centers (and our digital library!)... amongst others as such. 
+				</p>
+	</ul></footer>	
+		
+
+</body></html>
